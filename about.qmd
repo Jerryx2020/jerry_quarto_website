@@ -1,0 +1,5 @@
+---
+title: "About"
+---
+
+Hi, my name is Jun Ze (Jerry) Xia, I'm a third year student at the University of Toronto pursuing a Major in Statistics, Computer Science, and Math.
